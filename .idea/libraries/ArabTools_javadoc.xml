@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="ArabTools-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/ArabTools.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/libs/ArabTools-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/ArabTools-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
